@@ -37,9 +37,4 @@
 ## 📫 Let’s Connect
 - 📧 Email: [sohailmulla1099@gmail.com](mailto:sohailmulla1099@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sohailmulla1099](https://linkedin.com/in/sohailmulla1099)  
-- 🖥️ Portfolio (coming soon): *(you can add a personal site or Notion later)*  
-
----
-
-⭐️ *Pinned Repositories* → Make sure to **pin your top 5–6 repos** (OS-MOSIS binding, BERT sentiment, SQL project, dashboard project, maybe a CUDA demo).  
 
