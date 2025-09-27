@@ -1,11 +1,29 @@
 <!-- Header Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Sohail%20Mulla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 👋 Hi, I’m Sohail Mulla  
-
 🎓 **M.S. Applied Data Science @ Syracuse University** (GPA: 3.89/4)  
 💻 Computational Data Scientist | Data Science | Analytics | GPU Computing  
 🌍 Passionate about leveraging **Python, SQL, and CUDA** for solving data-driven problems in business and scientific domains.  
+
+---
+
+## 📂 Featured Projects  
+
+### 🚀 OS-MOSIS Python Binding  
+- Developing Python bindings for **OS-MOSIS**, an open-source GPU solver (C++ & CUDA).  
+- Enables GPU-accelerated computation of pressure fields from **PIV vectors** within Python.  
+
+### 🧠 Real-time Sentiment Analysis with BERT & Flask  
+- Fine-tuned a **BERT model** for tweet sentiment classification.  
+- Built an **end-to-end ML pipeline** and deployed as a **real-time prediction API** using Flask.  
+- 🔗 *[View Project](https://github.com/sohailmulla1099/bert-sentiment-flask)*  
+
+---
+
+## 🏆 Certifications  
+
+- **AI & ML Training (DIAT)** – Covered Big Data Analytics, NLP, Computer Vision, Deep Learning.  
+- **Machine Learning A-Z** – Implemented SVM, K-Means, Naive Bayes on real-world datasets.  
 
 ---
 
@@ -59,26 +77,6 @@
     <img src="https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white" height="30"/>
   </a>
 </p>
-
----
-
-## 📂 Featured Projects  
-
-### 🚀 OS-MOSIS Python Binding  
-- Developing Python bindings for **OS-MOSIS**, an open-source GPU solver (C++ & CUDA).  
-- Enables GPU-accelerated computation of pressure fields from **PIV vectors** within Python.  
-
-### 🧠 Real-time Sentiment Analysis with BERT & Flask  
-- Fine-tuned a **BERT model** for tweet sentiment classification.  
-- Built an **end-to-end ML pipeline** and deployed as a **real-time prediction API** using Flask.  
-- 🔗 *[View Project](https://github.com/sohailmulla1099/bert-sentiment-flask)*  
-
----
-
-## 🏆 Certifications  
-
-- **AI & ML Training (DIAT)** – Covered Big Data Analytics, NLP, Computer Vision, Deep Learning.  
-- **Machine Learning A-Z** – Implemented SVM, K-Means, Naive Bayes on real-world datasets.  
 
 ---
 
