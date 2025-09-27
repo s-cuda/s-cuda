@@ -11,11 +11,9 @@
 - **Visualization:** Matplotlib, Seaborn, Plotly, Dash, Streamlit  
 
 ## 📂 Featured Projects
-- 🧠 [Real-time Sentiment Analysis with BERT](link-to-repo)  
-- 📊 [Customer Churn Prediction](link-to-repo)  
-- 💻 [SQL Analytics Case Studies](link-to-repo)  
+- 🧠 [Real-time Sentiment Analysis with BERT]([link-to-repo](https://github.com/s-cuda/bert-sentiment-flask-app))  
 - 🚀 [OS-MOSIS Python Binding](link-to-repo)  
 
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/sohailmulla1099](https://linkedin.com/in/sohailmulla1099)  
-- Email: your email
+- Email: sohailmulla1099@gmail.com
