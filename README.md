@@ -11,7 +11,7 @@
 - **Visualization:** Matplotlib, Seaborn, Plotly, Dash, Streamlit  
 
 ## 📂 Featured Projects
-- 🧠 [Real-time Sentiment Analysis with BERT]([link-to-repo](https://github.com/s-cuda/bert-sentiment-flask-app))  
+- 🧠 [Real-time Sentiment Analysis with BERT](https://github.com/s-cuda/bert-sentiment-flask-app) 
 - 🚀 [OS-MOSIS Python Binding](link-to-repo)  
 
 ## 📫 Connect
