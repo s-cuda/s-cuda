@@ -15,7 +15,7 @@
 ### 🚀 OS-MOSIS Python Binding  
 - Developing Python bindings for **OS-MOSIS**, an open-source GPU solver (C++ & CUDA).  
 - Enables GPU-accelerated computation of pressure fields from **PIV vectors** within Python.
-- 🔗 *[View Project]([https://github.com/sohailmulla1099/bert-sentiment-flask](https://github.com/s-cuda/pressure-osmosis-forked/tree/main/OmniPython))* 
+- 🔗 *[View Project](https://github.com/s-cuda/pressure-osmosis-forked/tree/main/OmniPython)* 
 
 ### 🧠 Real-time Sentiment Analysis with BERT & Flask  
 - Fine-tuned a **BERT model** for tweet sentiment classification.  
