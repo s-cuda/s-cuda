@@ -1,132 +1,58 @@
+<div align="center">
+
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Sohail%20Mulla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Sohail%20Mulla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
-# 👋 Hi, I’m Sohail Mulla  
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailmulla1099)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohailmulla1099@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s-cuda)
 
-🎓 **M.S. Applied Data Science @ Syracuse University** (GPA: 3.92/4)  
-💻 Computational Data Scientist | Data Science | Analytics | GPU Computing  
-🌍 Passionate about leveraging **Python, SQL, and CUDA** for solving data-driven problems in business and scientific domains.  
-
-
----
-
-## 📂 Featured Projects  
-
-### 🚀 OS-MOSIS Python Binding  
-- Developing Python bindings for **OS-MOSIS**, an open-source GPU solver (C++ & CUDA).  
-- Enables GPU-accelerated computation of pressure fields from **PIV vectors** within Python.
-- 🔗 *[View Project](https://github.com/s-cuda/pressure-osmosis-forked/tree/main/OmniPython)* 
-
-### 🧠 Real-time Sentiment Analysis with BERT & Flask  
-- Fine-tuned a **BERT model** for tweet sentiment classification.  
-- Built an **end-to-end ML pipeline** and deployed as a **real-time prediction API** using Flask.  
-- 🔗 *[View Project](https://github.com/sohailmulla1099/bert-sentiment-flask)*  
+</div>
 
 ---
 
-## 🏆 Certifications  
+## 👋 About Me
 
-- **AI & ML Training (DIAT)** – Covered Big Data Analytics, NLP, Computer Vision, Deep Learning.  
-- **Machine Learning A-Z** – Implemented SVM, K-Means, Naive Bayes on real-world datasets.  
-
----
-
-
-## 🔧 Skills  
-
-<p align="left">
-
-<!-- Programming Languages -->
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.r-project.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Data Science & ML -->
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-</a>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/NLP-3C3C3D?style=for-the-badge&logo=fastai&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Time%20Series-0A66C2?style=for-the-badge&logo=clockify&logoColor=white" height="28"/>
-
-<!-- GPU & HPC -->
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/PyBind11-3670A0?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/HPC-FF6F00?style=for-the-badge&logo=apache&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Scientific%20Computing-0096D6?style=for-the-badge&logo=scipy&logoColor=white" height="28"/>
-
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-<img src="https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" height="28"/>
-
-<!-- Data Engineering -->
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Databricks-EF3D0C?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Data%20Pipelines-2C8EBB?style=for-the-badge&logo=databricks&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Data%20Preprocessing-009688?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-
-<!-- Visualization -->
-<a href="https://www.tableau.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/>
-</a>
-<a href="https://superset.apache.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Apache%20Superset-1EB980?style=for-the-badge&logo=apache&logoColor=white" height="28"/>
-</a>
-<a href="https://www.qlik.com/us/products/qlik-sense" target="_blank">
-  <img src="https://img.shields.io/badge/Qlik%20Sense-009848?style=for-the-badge&logo=qlik&logoColor=white" height="28"/>
-</a>
-
-<!-- Workflow & Tools -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/iPython%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="28"/>
-
-<!-- Business/Domain -->
-<img src="https://img.shields.io/badge/Business%20Analytics-00C4B3?style=for-the-badge&logo=powerbi&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FinTech-6D28D9?style=for-the-badge&logo=visa&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/CleverTap-FF6F00?style=for-the-badge&logo=react&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/MoEngage-1DA1F2?style=for-the-badge&logo=sendinblue&logoColor=white" height="28"/>
-
-</p>
+🎓 **M.S. Applied Data Science @ Syracuse University** (GPA: 3.92/4.0)  
+💼 **2+ years in FinTech** (Freo & Simpl) : driving data-driven decisions at scale  
+🤖 Building **ML applications end-to-end**: from research and experimentation to production deployment  
+🌍 Passionate about **LLMs, RAG systems, and agentic AI**  
+✈️ OPT Eligible (STEM)
 
 ---
 
-## 📫 Let’s Connect  
+## 🚀 What I'm Working On
 
-<p align="left">
-  <!-- Email -->
-  <a href="mailto:sohailmulla1099@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="fill:#D14836;" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sohailmulla1099" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="fill:#0077B5;" />
-  </a>
-</p>
+- 🏗️ Building an **MCP server** integrating Claude AI with building simulation platforms for natural language parameter configuration
+- 🧠 Training **surrogate models** on 1000+ parametric simulation runs ; cutting simulation time from hours to seconds
 
 ---
 
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=100&section=footer)
+## 🛠️ Tech Stack
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 [Repository Analyzer](https://github.com/xseven1/Repository-Analyzer)
+> AI-powered GitHub repo analysis using **LangChain ReAct agents** + **RAG** (ChromaDB + OpenAI embeddings). Answer natural language questions about any codebase ; commits, PRs, and evolution — across 100+ commits in under 2 minutes.  
+`LangChain` `RAG` `ChromaDB` `OpenAI` `ReAct`
+
+### 🏋️ [Smart Gym Cloud Platform](https://github.com/s-cuda/smart-gym-membership-cloud)
+> Full-stack **Azure-deployed** gym membership platform with an AI recommendation engine. 13 REST endpoints, React frontend, serverless billing, and an OpenAI-powered workout planner with 5 custom function-calling tools.  
+`FastAPI` `React` `Azure` `OpenAI` `SQLAlchemy`
+
+### ⚡ [OS-MOSIS: OmniPython (Merged PR)](https://github.com/3dfernando/pressure-osmosis/pull/1)
+> **Open-source contribution merged upstream into [3dfernando/pressure-osmosis](https://github.com/3dfernando/pressure-osmosis)** — added Python bindings (OmniPython) to a GPU solver for pressure-from-PIV computation, expanding access from MATLAB-only to the Python scientific community. Validated via Taylor vortex simulations with <0.05% error. Packaged as pip-installable.  
+`CUDA` `C++` `PyBind11` `HPC` `Scientific Computing` `Open Source`
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=100&section=footer" width="100%"/>
+
+</div>
